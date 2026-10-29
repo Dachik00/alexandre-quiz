@@ -1,0 +1,1 @@
+This project helps beginners practise Git, branching, and pull requests.
